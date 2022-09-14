@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smangyoda
-- 👀 I’m interested in anything to do with computers
+- 👀 I’m interested in anything that has to do with computers
 - 🌱 I’m currently learning SQL Programming..
 <!---
 smangyoda/smangyoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
